@@ -5,3 +5,5 @@ EX01-01[加法器](https://colab.research.google.com/drive/1Hthci2ixoFndPtrgjIIG
 EX01-02[BMI計算機](https://colab.research.google.com/drive/1c4oQtiTcgmvI1ZthwzR9aiY1D06_fsEp#scrollTo=ZiGDvJUkGSBl)
 
 EX01-03[Rock-Paper-Scissors](https://colab.research.google.com/drive/1XWMUW0zDwAWzMNIPdG2RxWuf8Z29cEBq#scrollTo=5Y3lSd63SJ05)
+
+EX01-04[終極密碼](https://colab.research.google.com/drive/1QsU6LFQwEsCPzY7oro_TiWgi78ScUXGw?authuser=1)

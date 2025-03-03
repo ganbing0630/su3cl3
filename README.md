@@ -9,3 +9,5 @@ EX01-03[Rock-Paper-Scissors](https://colab.research.google.com/drive/1XWMUW0zDwA
 EX01-04[終極密碼](https://colab.research.google.com/drive/1QsU6LFQwEsCPzY7oro_TiWgi78ScUXGw?authuser=1)
 
 EX01-05[Caesar Cipher: Encode and decode](https://colab.research.google.com/drive/1Vgja2_LFAkTq2yoeLwM1ntNtK_YFW9Xn#scrollTo=BdV4uQr6J2bd)
+
+EX01-06[簡易購物車](https://colab.research.google.com/drive/16VZxrVSbz7XkmyU9U8U9niYFBzUih-jm#scrollTo=K62h0kEC1iTR)
